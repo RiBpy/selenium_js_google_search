@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "cli-color": "^2.0.3",
     "geckodriver": "^3.2.0",
+    "puppeteer": "^19.6.1",
     "selenium-webdriver": "^4.7.1",
     "xlsx": "^0.18.5"
   }
